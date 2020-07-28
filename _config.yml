@@ -2,7 +2,7 @@ name: KfK-Butler
 description: Ein Hilfsprogramm für die Gilde Kalimdor Fired Kodo
 markdown: kramdown
 theme: jekyll-theme-tactile
-show_downloads: falsw
+show_downloads: false
 plugins:
   - jekyll-relative-links
 relative_links:
